@@ -46,7 +46,6 @@
 6. 스프레이 분사가 완료되면 스프레이가 분사되었다는 알람을 스마트폰에 전송한 후 다시 동작 1의 상태로 돌아간다.<br>
 ![image](https://github.com/user-attachments/assets/19e8a207-8687-4cf8-91a1-5d0e9b152295)
 
-## HW
 ### HW 작동 모습
 - 푸리에 변환 결과 그래프 출력 모습<br>
 ![ezgif-7-09722a0b7b](https://github.com/user-attachments/assets/effe27c2-aa8c-4b59-8280-aa174b9a8c12)
@@ -59,9 +58,12 @@
 - 서보모터 작동(스프레이)<br>
 ![ezgif-7-9092cdb2de](https://github.com/user-attachments/assets/d652bfc0-c8c7-4e7c-aa3d-477cc4bf6c7b)
 
-### HW 설계 세부 모습
+### 설계 세부 모습
 - Schematics<br>
 ![NOsquito230611_2_1](https://github.com/user-attachments/assets/5e766fb8-d9cc-480b-af2d-f2e30c5d79e3)
+
+- APP
+![image](https://github.com/user-attachments/assets/f86af7a6-1e11-4d07-905d-03c667d83205)
 
 - 쉴드 (만능기판)<br>
 ![image](https://github.com/user-attachments/assets/d7d88f98-c234-498c-b199-f9071868ea1c)
