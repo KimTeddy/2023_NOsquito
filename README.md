@@ -1,8 +1,13 @@
 # 2023_NOsquito
 기간: 2023.03.02. ~ 2023.06.14.<br>
 인원: 3명
+<div align=center>
+  
 ![image](https://github.com/user-attachments/assets/a2c3fb6a-e320-4e36-89d8-8d9186ff0c82)
+***
+![ezgif-7-71e78a34db](https://github.com/user-attachments/assets/ce96b4cb-b424-4fa1-99dd-9ebfdd410159)
 ![ezgif-7-b44a1ab584](https://github.com/user-attachments/assets/638c7825-c2d3-4d36-9e69-f53bb4a1f538)
+</div>
 
 | 파일명                     | 용도                                              |
 |----------------------------|---------------------------------------------------|
