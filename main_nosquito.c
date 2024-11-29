@@ -58,7 +58,7 @@ int main(void)
 	Delay_ms(50);
 	Initialize_TFT_LCD();
 	LED_on();
-	display_starting(); Delay_ms(3000);// Ã³À½ È­¸é "³ë½ºÅ°¶Ç"
+	display_starting(); Delay_ms(3000);// ì²˜ìŒ í™”ë©´ "ë…¸ìŠ¤í‚¤ë˜"
 
 
 	ADC_init();
@@ -71,9 +71,9 @@ int main(void)
 			char direction = 0;
 
 			ADC_stop();
-			TFT_clear_screen(); //¸ð±â°¡ °¨ÁöµÆ¾î¿ë
+			TFT_clear_screen(); //ëª¨ê¸°ê°€ ê°ì§€ëì–´ìš©
 			display_detected(); Delay_ms(2000);
-			GPIOD->BSRR = 0x00DF0000;//½¯µå »ç¿ë
+			GPIOD->BSRR = 0x00DF0000;//ì‰´ë“œ ì‚¬ìš©
 
 			Bluetooth_init();
 			TX2_string("Mosquito was detected!\n");
@@ -113,49 +113,49 @@ int main(void)
 			TIM1->CCR3 = 30;
 			if (direction == DISP_LEFT) {
 				servo_selector(0);
-				Delay_ms(350); //¸ðÅÍ0
+				Delay_ms(350); //ëª¨í„°0
 				servo_selector(1);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 			}
 			else if (direction == DISP_MIDDLE) {
 				servo_selector(1);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 				servo_selector(2);
-				Delay_ms(350); //¸ðÅÍ2
+				Delay_ms(350); //ëª¨í„°2
 				servo_selector(0);
-				Delay_ms(350); //¸ðÅÍ0
+				Delay_ms(350); //ëª¨í„°0
 				servo_selector(3);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 			}
 			else if (direction == DISP_RIGHT) {
 				servo_selector(2);
-				Delay_ms(350); //¸ðÅÍ2
+				Delay_ms(350); //ëª¨í„°2
 				servo_selector(3);
-				Delay_ms(350); //¸ðÅÍ3
+				Delay_ms(350); //ëª¨í„°3
 			}
 
 			TIM1->CCR3 = 20;
 			if (direction == DISP_LEFT) {
 				servo_selector(0);
-				Delay_ms(350); //¸ðÅÍ0
+				Delay_ms(350); //ëª¨í„°0
 				servo_selector(1);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 			}
 			else if (direction == DISP_MIDDLE) {
 				servo_selector(1);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 				servo_selector(2);
-				Delay_ms(350); //¸ðÅÍ2
+				Delay_ms(350); //ëª¨í„°2
 				servo_selector(0);
-				Delay_ms(350); //¸ðÅÍ0
+				Delay_ms(350); //ëª¨í„°0
 				servo_selector(3);
-				Delay_ms(350); //¸ðÅÍ1
+				Delay_ms(350); //ëª¨í„°1
 			}
 			else if (direction == DISP_RIGHT) {
 				servo_selector(2);
-				Delay_ms(350); //¸ðÅÍ2
+				Delay_ms(350); //ëª¨í„°2
 				servo_selector(3);
-				Delay_ms(350); //¸ðÅÍ3
+				Delay_ms(350); //ëª¨í„°3
 			}
 
 			Bluetooth_init();
