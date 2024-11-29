@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>36795302</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\OK-STM767_large.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Lib\IAR\iar_cortexM7lf_math.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\nosquito_images.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\Debug\List\bluetooth_serial.lst</file>
+            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f767xG.icf</file>
+            <file>$PROJ_DIR$\Debug\List\NOsquito.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT2.o</file>
+            <file>$PROJ_DIR$\Debug\List\main.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsquito.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc_fft_1.xcl</file>
+            <file>$PROJ_DIR$\Include\CMSIS\arm_math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main_1.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\bluetooth_serial.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\NOsquito.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT3.xcl</file>
+            <file>$PROJ_DIR$\Include\system_stm32f7xx.h</file>
+            <file>$PROJ_DIR$\nosquito_display.h</file>
+            <file>$PROJ_DIR$\Debug\List\NOsqito_FFT2.lst</file>
+            <file>$PROJ_DIR$\Exp18_1_FFT(1).c</file>
+            <file>$PROJ_DIR$\Debug\Exe\NOsquito.hex</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+            <file>$PROJ_DIR$\Debug\List\Exp18_1_FFT(1).lst</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\nosquito_led.h</file>
+            <file>$PROJ_DIR$\nosquito_motor_pwm.h</file>
+            <file>$PROJ_DIR$\NOsqito_FFT.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\List\main_1.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\TFT_LCD.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT2.xcl</file>
+            <file>$PROJ_DIR$\Include\CMSIS\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\Include\stm32f767xx.h</file>
+            <file>$PROJ_DIR$\OK-STM767.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\List\adc_fft_1.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\main - 2.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\mike.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\mike.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Exp18_1_FFT(1).o</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT3.o</file>
+            <file>$PROJ_DIR$\nosquito_adc_fft.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main - 2.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\bluetooth_serial.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main_1.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\NOsqito_FFT.o</file>
+            <file>$PROJ_DIR$\Debug\List\NOsqito_FFT3.lst</file>
+            <file>$PROJ_DIR$\TFT_LCD.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\NOsqito_FFT3.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\NOsqito_FFT2.c</file>
+            <file>$PROJ_DIR$\Debug\List\main - 2.lst</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Include\CMSIS\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\Debug\List\TFT_LCD.lst</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Include\startup_stm32f767xx.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\TFT_LCD.o</file>
+            <file>$PROJ_DIR$\main_1.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\bluetooth_serial.xcl</file>
+            <file>$PROJ_DIR$\Include\CMSIS\core_cm7.h</file>
+            <file>$PROJ_DIR$\nosquito_bluetooth_serial.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\main - 2.c</file>
+            <file>$PROJ_DIR$\adc_fft_1.c</file>
+            <file>$PROJ_DIR$\Include\CMSIS\core_cmSimd.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Exp18_1_FFT(1).xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\mike.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_stm32f767xx.o</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 17 9</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\NOsquito.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 8 50 81 2 24 60 25 61</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Exp18_1_FFT(1).c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6 14 64 54 79</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\NOsqito_FFT.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\bluetooth_serial.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 7 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\TFT_LCD.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\NOsqito_FFT3.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6 14 64 54 79</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\NOsqito_FFT2.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6 14 64 54 79</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Include\startup_stm32f767xx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main_1.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6 1 5 72 20 46 14 64 54 79 29 28</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6 14 64 54 79</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main - 2.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 71 0 68 43 69 55 27 62 77 38 35 76 19 37 31 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\adc_fft_1.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\mike.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\main.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
