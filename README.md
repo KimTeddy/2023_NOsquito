@@ -1,5 +1,6 @@
 # 2023_NOsquito
-2023.03.02. ~ 2023.06.14.
+기간: 2023.03.02. ~ 2023.06.14.
+인원: 3명
 ![image](https://github.com/user-attachments/assets/a2c3fb6a-e320-4e36-89d8-8d9186ff0c82)
 ![ezgif-7-b44a1ab584](https://github.com/user-attachments/assets/638c7825-c2d3-4d36-9e69-f53bb4a1f538)
 
@@ -49,6 +50,7 @@
 ### HW 작동 모습
 - 푸리에 변환 결과 그래프 출력 모습<br>
 ![ezgif-7-09722a0b7b](https://github.com/user-attachments/assets/effe27c2-aa8c-4b59-8280-aa174b9a8c12)
+![image](https://github.com/user-attachments/assets/963a3fcf-3dbd-40a0-8e8a-25da134c3636)
 
 - LED 스트립 색깔 변화<br>
 ![image](https://github.com/user-attachments/assets/16b61afb-89ad-4678-ab1f-fb998388a035)
