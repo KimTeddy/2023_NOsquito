@@ -57,7 +57,7 @@
 ![image](https://github.com/user-attachments/assets/4128f1b1-4e16-4e19-a7b6-2a2a41e08985)
 -->
 
-4. 방향이 결정되면 해당 방향에 위치한 LED에 불이 들어오고<br>
+4. 방향 인식이 완료되면 해당 방향에 위치한 LED 색상이 빨간색으로 바뀌고<br>
 <img src="https://github.com/user-attachments/assets/16b61afb-89ad-4678-ab1f-fb998388a035" width="40%" height="30%" title="평소 모습(주황색)" alt="평소 모습(주황색)"></img>
 <img src="https://github.com/user-attachments/assets/da4df843-76e7-411b-9207-c9b8185c6a06" width="40%" height="30%" title="감지된 위치 표시(빵간색)" alt="감지된 위치 표시(빵간색)"></img>
 
