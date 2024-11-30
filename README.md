@@ -88,7 +88,7 @@
 ### 설계 세부 모습
 [목차로 이동](#목차)
 - Schematics<br>
-![NOsquito230611_2_1](https://github.com/user-attachments/assets/5e766fb8-d9cc-480b-af2d-f2e30c5d79e3)
+![NOsquito230611_2_1](https://github.com/user-attachments/assets/2e9a4c33-3631-4c47-84c3-59bd2a69b57a)
 
 - APP<br>
 ![image](https://github.com/user-attachments/assets/f86af7a6-1e11-4d07-905d-03c667d83205)
