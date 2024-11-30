@@ -30,7 +30,7 @@
 8. [소요 개발비](#소요-개발비)
 
 ## 작동 과정
-[목차로 이동](#목차)
+[목차로 이동](#목차)<br>
 0. Flowchart<br>
 ![image01](https://github.com/user-attachments/assets/b4f239b7-6da6-4d99-9fdb-c1d18bbce7c6)
 
@@ -46,18 +46,24 @@
   
     - 위치를 비교함으로 점수를 부여하고 최종적인 위치를 결정한다.<br>
     - 감지의 선택지는 총 4가지이며 동시에 스마트폰에 알람 메시지를 전송한다.<br>
+<img src="https://github.com/user-attachments/assets/6b0b4efa-f991-4165-a5d8-083da37bbc04" width="40%" height="30%" title="왼쪽 감지" alt="왼쪽 감지"></img>
+<img src="https://github.com/user-attachments/assets/9a9ac20c-c7a3-496f-bad1-8f30f0d7bc76" width="40%" height="30%" title="중간 감지" alt="중간 감지"></img><br>
+<img src="https://github.com/user-attachments/assets/f7030939-6ed2-42b0-a07a-2a4ffc945edf" width="40%" height="30%" title="오른쪽 감지" alt="오른쪽 감지"></img>
+<img src="https://github.com/user-attachments/assets/4128f1b1-4e16-4e19-a7b6-2a2a41e08985" width="40%" height="30%" title="감지할 수 없습니다." alt="감지 불가"></img>
+<!--
 ![image](https://github.com/user-attachments/assets/6b0b4efa-f991-4165-a5d8-083da37bbc04)
 ![image](https://github.com/user-attachments/assets/9a9ac20c-c7a3-496f-bad1-8f30f0d7bc76)<br>
 ![image](https://github.com/user-attachments/assets/f7030939-6ed2-42b0-a07a-2a4ffc945edf)
 ![image](https://github.com/user-attachments/assets/4128f1b1-4e16-4e19-a7b6-2a2a41e08985)
+-->
 
 4. 방향이 결정되면 해당 방향에 위치한 LED에 불이 들어오고<br>
-![image](https://github.com/user-attachments/assets/8a041907-d5c3-49d0-8523-455fe02359c3)
-![image](https://github.com/user-attachments/assets/1748f2db-c74c-4003-b615-f558d9094e9d)
+<img src="https://github.com/user-attachments/assets/16b61afb-89ad-4678-ab1f-fb998388a035" width="40%" height="30%" title="평소 모습(주황색)" alt="평소 모습(주황색)"></img>
+<img src="https://github.com/user-attachments/assets/da4df843-76e7-411b-9207-c9b8185c6a06" width="40%" height="30%" title="감지된 위치 표시(빵간색)" alt="감지된 위치 표시(빵간색)"></img>
 
 5. 방향에 따른 모터의 동작으로 인해 스프레이가 분사된다.<br>
-![image](https://github.com/user-attachments/assets/065db39d-075a-480d-89bb-bd86d057a76c)
-![image](https://github.com/user-attachments/assets/f2ca44fb-3ca2-40cb-bb71-ab75c14018a8)
+<img src="https://github.com/user-attachments/assets/bdb996f8-8899-431d-8b2b-6965af5147cf" width="40%" height="30%" title="평소" alt="평소 모습"></img>
+<img src="https://github.com/user-attachments/assets/2c23f569-9421-4ad4-af5c-bef35df45543" width="40%" height="30%" title="분사" alt="분사 모습"></img>
 
 6. 스프레이 분사가 완료되면 스프레이가 분사되었다는 알람을 스마트폰에 전송한 후 다시 동작 1의 상태로 돌아간다.<br>
 ![image](https://github.com/user-attachments/assets/19e8a207-8687-4cf8-91a1-5d0e9b152295)
@@ -69,8 +75,12 @@
 ![image](https://github.com/user-attachments/assets/963a3fcf-3dbd-40a0-8e8a-25da134c3636)
 
 - LED 스트립 색깔 변화<br>
+<img src="https://github.com/user-attachments/assets/16b61afb-89ad-4678-ab1f-fb998388a035" width="40%" height="30%" title="평소 모습(주황색)" alt="평소 모습(주황색)"></img>
+<img src="https://github.com/user-attachments/assets/da4df843-76e7-411b-9207-c9b8185c6a06" width="40%" height="30%" title="감지된 위치 표시(빵간색)" alt="감지된 위치 표시(빵간색)"></img>
+<!--
 ![image](https://github.com/user-attachments/assets/16b61afb-89ad-4678-ab1f-fb998388a035)
 ![image](https://github.com/user-attachments/assets/da4df843-76e7-411b-9207-c9b8185c6a06)
+-->
 
 - 서보모터 작동(스프레이)<br>
 ![ezgif-7-9092cdb2de](https://github.com/user-attachments/assets/d652bfc0-c8c7-4e7c-aa3d-477cc4bf6c7b)
@@ -84,8 +94,12 @@
 ![image](https://github.com/user-attachments/assets/f86af7a6-1e11-4d07-905d-03c667d83205)
 
 - 쉴드 (만능기판)<br>
+<img src="https://github.com/user-attachments/assets/d7d88f98-c234-498c-b199-f9071868ea1c" width="40%" height="30%" title="윗면" alt="쉴드 윗면"></img>
+<img src="https://github.com/user-attachments/assets/7babc10f-7acf-4aaf-9ce6-b2f03f670898" width="40%" height="30%" title="아랫면" alt="쉴드 아랫면"></img>
+<!--
 ![image](https://github.com/user-attachments/assets/d7d88f98-c234-498c-b199-f9071868ea1c)
 ![20230611_205637](https://github.com/user-attachments/assets/7babc10f-7acf-4aaf-9ce6-b2f03f670898)
+-->
 
 - DEMUX 및 풀다운 저항<br>
 ![image](https://github.com/user-attachments/assets/925e2492-43e5-479e-9ff5-22c116afdc60)
@@ -94,10 +108,16 @@
 ![image](https://github.com/user-attachments/assets/dfb7eb01-e7e4-450a-8581-b2b04b138cf5)
 
 - 스프레이 분사기 구조 3D 형상 모델링 설계<br>
+<img src="https://github.com/user-attachments/assets/3abfa441-88fa-46f6-ba4c-6d02c62d3fbe" width="40%" height="30%" title="3D CAD" alt="3D CAD"></img>
+<img src="https://github.com/user-attachments/assets/99fbfea3-a717-4edb-b256-52a19a296a65" width="40%" height="30%" title="3D Printing" alt="3D Printing"></img>
+<img src="https://github.com/user-attachments/assets/bdb996f8-8899-431d-8b2b-6965af5147cf" width="40%" height="30%" title="평소" alt="평소 모습"></img>
+<img src="https://github.com/user-attachments/assets/2c23f569-9421-4ad4-af5c-bef35df45543" width="40%" height="30%" title="분사" alt="분사 모습"></img>
+<!--
 ![image](https://github.com/user-attachments/assets/3abfa441-88fa-46f6-ba4c-6d02c62d3fbe)
 ![image](https://github.com/user-attachments/assets/99fbfea3-a717-4edb-b256-52a19a296a65)<br>
 ![image](https://github.com/user-attachments/assets/bdb996f8-8899-431d-8b2b-6965af5147cf)
 ![image](https://github.com/user-attachments/assets/2c23f569-9421-4ad4-af5c-bef35df45543)
+-->
 
 ## 기능
 [목차로 이동](#목차)
